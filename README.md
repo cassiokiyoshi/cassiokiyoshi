@@ -4,13 +4,9 @@
 
 [I’m a full-stack developer and AI software development, with a previous 10 years experience in video editing and motion graphics. I try to combine  my past experience in motion with programming, using creative problem-solving to build thoughtful, user focused software. My unconventional path from multimedia production to living and working odd jobs in South Korea and now in Japan, has made me adaptable. I'm not really into studying, but I love to learn..]
 
-## About Me
-
-- 🔭 I'm currently working on **[cheap eats]**
-- 🌱 I'm currently learning **[Go - React - Typescript]**
-- 🤝 I'm open to collaborating on **[Games or fun ideas]**
-- 💬 Ask me about **[Anything, if I don't know I can always google it]**
-- ⚡ Random fact: **[Probably rewatching a Korean Drama rn]**
+- I'm currently working on **[cheap eats]**
+- I'm currently learning **[Go - React - Typescript]**
+- I'm open to collaborating on **[Games or fun ideas]**
 
 ## Tech Stack
 
@@ -59,11 +55,6 @@
 **Built with:** [Python, Streamlit, pandas, openpyxl]
 **Repository:** [View project](https://github.com/cassiokiyoshi/Scheduling)
 
-## GitHub Activity
-
-![Cassio's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiokiyoshi&show_icons=true&theme=transparent&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiokiyoshi&layout=compact&theme=transparent&hide_border=true)
 
 ## Connect With Me
 
