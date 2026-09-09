@@ -1,12 +1,12 @@
 # Hi, I'm Cassio Kiyoshi 👋
 
-**[Fullstack Developer]**
+**Fullstack Developer**
 
-[I’m a full-stack developer and AI software development, with a previous 10 years experience in video editing and motion graphics. I try to combine  my past experience in motion with programming, using creative problem-solving to build thoughtful, user focused software. My unconventional path from multimedia production to living and working odd jobs in South Korea and now in Japan, has made me adaptable. I'm not really into studying, but I love to learn..]
+I’m a full-stack developer and AI software development, with a previous 10 years experience in video editing and motion graphics. I try to combine  my past experience in motion with programming, using creative problem-solving to build thoughtful, user focused software. My unconventional path from multimedia production to living and working odd jobs in South Korea and now in Japan, has made me adaptable. I'm not really into studying, but I love to learn..
 
--  I'm currently working on **[cheap eats]**
--  I'm currently learning **[Go - React - Typescript]**
--  I'm open to collaborating on **[Games or fun ideas]**
+-  I'm currently working on **cheap eats**
+-  I'm currently learning **Go - React - Typescript**
+-  I'm open to collaborating on **Games or fun ideas**
 
 ## Tech Stack
 
@@ -34,25 +34,28 @@
 
 ## Featured Projects
 
-### [JobEasy]
+### JobEasy
 
-[A full-stack workspace for tracking opportunities, editing application-specific resumes, planning next steps, and chatting with an AI assistant.]
+A full-stack workspace for tracking opportunities, editing application-specific resumes, planning next steps, and chatting with an AI assistant.
 
-**Built with:** [Ruby, Rails 8, RubyLLM, Hotwire, PostgresSQL, Javascript]
+**Built with:** Ruby, Rails 8, RubyLLM, Hotwire, PostgresSQL, Javascript
+
 **Repository:** [View project](https://github.com/cassiokiyoshi/job-easy)
 
-### [DreamApp]
+### DreamApp
 
-[An AI-powered dream journal that creates structured interpretations and original illustrations, organizes recurring themes and symbols, and supports follow-up conversations in the context of each dream.]
+An AI-powered dream journal that creates structured interpretations and original illustrations, organizes recurring themes and symbols, and supports follow-up conversations in the context of each dream.
 
-**Built with:** [Ruby, Rails 8, RubyLLM, Hotwire, PostgresSQL, Javascript]
+**Built with:** Ruby, Rails 8, RubyLLM, Hotwire, PostgresSQL, Javascript
+
 **Repository:** [View project](https://github.com/cassiokiyoshi/dream-app)
 
-### [Scheduling]
+### Scheduling
 
-[Simple local app that reads a google form csv with part time workers availability and creates a monthly work schedule following rules and distributing shifts as equally as possible]
+Simple local app that reads a google form csv with part time workers availability and creates a monthly work schedule following rules and distributing shifts as equally as possible
 
-**Built with:** [Python, Streamlit, pandas, openpyxl]
+**Built with:** Python, Streamlit, pandas, openpyxl
+
 **Repository:** [View project](https://github.com/cassiokiyoshi/Scheduling)
 
 
