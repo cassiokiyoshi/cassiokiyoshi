@@ -58,10 +58,7 @@
 
 ## Connect With Me
 
-- 🌐 [Portfolio](cassiokiyoshi.github.io/profile/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/cassiokiyoshi/)
-- ✉️ [Email](cassiokiyoshi@icloud.com)
-- 🎨 [Design portfolio](https://www.behance.net/cassiokiyoshi)
+- 🌐 [Portfolio](cassiokiyoshi.github.io/profile/)- 💼 [LinkedIn](https://www.linkedin.com/in/cassiokiyoshi/)- ✉️ [Email](cassiokiyoshi@icloud.com)- 🎨 [Design portfolio](https://www.behance.net/cassiokiyoshi)
 
 ---
 
