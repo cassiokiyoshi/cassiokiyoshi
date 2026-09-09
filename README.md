@@ -4,9 +4,9 @@
 
 [I’m a full-stack developer and AI software development, with a previous 10 years experience in video editing and motion graphics. I try to combine  my past experience in motion with programming, using creative problem-solving to build thoughtful, user focused software. My unconventional path from multimedia production to living and working odd jobs in South Korea and now in Japan, has made me adaptable. I'm not really into studying, but I love to learn..]
 
-  I'm currently working on **[cheap eats]**
-  I'm currently learning **[Go - React - Typescript]**
-  I'm open to collaborating on **[Games or fun ideas]**
+-  I'm currently working on **[cheap eats]**
+-  I'm currently learning **[Go - React - Typescript]**
+-  I'm open to collaborating on **[Games or fun ideas]**
 
 ## Tech Stack
 
@@ -58,7 +58,7 @@
 
 ## Connect With Me
 
-🌐 [Portfolio](cassiokiyoshi.github.io/profile/)  |  💼 [LinkedIn](https://www.linkedin.com/in/cassiokiyoshi/)  |  ✉️ [Email](cassiokiyoshi@icloud.com)  |  🎨 [Design portfolio](https://www.behance.net/cassiokiyoshi)
+| 🌐 [Portfolio](cassiokiyoshi.github.io/profile/)  |  💼 [LinkedIn](https://www.linkedin.com/in/cassiokiyoshi/)  |  ✉️ [Email](cassiokiyoshi@icloud.com)  |  🎨 [Design portfolio](https://www.behance.net/cassiokiyoshi) |
 
 ---
 
