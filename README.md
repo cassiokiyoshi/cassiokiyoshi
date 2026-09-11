@@ -59,7 +59,7 @@ Simple local app that reads a google form csv with part time workers availabilit
 **Repository:** [View project](https://github.com/cassiokiyoshi/Scheduling)
 
 
-## Connect With Me
+## Contact
 
 | 🌐 [Portfolio](cassiokiyoshi.github.io/profile/)  |  💼 [LinkedIn](https://www.linkedin.com/in/cassiokiyoshi/)  |  ✉️ [Email](cassiokiyoshi@icloud.com)  |  🎨 [Design portfolio](https://www.behance.net/cassiokiyoshi) |
 
