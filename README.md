@@ -61,7 +61,7 @@ Simple local app that reads a google form csv with part time workers availabilit
 
 ## Connect
 
-| 🌐 [Portfolio](cassiokiyoshi.github.io/profile/)  |  💼 [LinkedIn](https://www.linkedin.com/in/cassiokiyoshi/)  |  ✉️ [Email](cassiokiyoshi@icloud.com)  |  🎨 [Design portfolio](https://www.behance.net/cassiokiyoshi) |
+| 🌐 [Portfolio](cassiokiyoshi.github.io/profile/)  |  💼 [LinkedIn](https://www.linkedin.com/in/cassiokiyoshi/)  |  ✉️ [Email](cassiokiyoshi@icloud.com)  |  🎨 [Motion portfolio](https://www.behance.net/cassiokiyoshi) |
 
 ---
 
