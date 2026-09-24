@@ -58,6 +58,14 @@ Simple local app that reads a google form csv with part time workers availabilit
 
 **Repository:** [View project](https://github.com/cassiokiyoshi/Scheduling)
 
+### Cheap Eats (in progress...)
+
+A Japan-focused mobile app for discovering affordable dishes nearby, with dish-level pricing, budget and distance filters, bilingual names, restaurant details, and price history.
+
+**Built with:** Go, Chi, PostgreSQL, PostGIS, React Native, Expo, TypeScript
+
+**Repository:** [View project]((https://github.com/cassiokiyoshi/cheap-eats))
+
 
 ## Connect
 
