@@ -64,7 +64,7 @@ A Japan-focused mobile app for discovering affordable dishes nearby, with dish-l
 
 **Built with:** Go, Chi, PostgreSQL, PostGIS, React Native, Expo, TypeScript
 
-**Repository:** [View project]((https://github.com/cassiokiyoshi/cheap-eats))
+**Repository:** [View project](https://github.com/cassiokiyoshi/cheap-eats)
 
 
 ## Connect
